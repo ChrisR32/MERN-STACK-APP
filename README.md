@@ -17,23 +17,44 @@ Description of your website, including:
 - Target audience
 - Tech stack	
 
-## R2
-Dataflow Diagram:
+## Dataflow Diagram:
 
 <img src="./docs/diagrams/dataflow.png"
      alt="diagram of the dataflow"/>
 
-## R3
-Application Architecture Diagram:
+
+## Application Architecture Diagram:
 
 <img src="./docs/diagrams/ArchitectureDiagram.png"
-     alt="diagram of the application architecture"/>
+     alt="user stories"/>
 
-## R4
-User Stories
 
-## R5
-Wireframes for multiple standard screen sizes, created using industry standard software
+## User Stories
 
-## R6
-Screenshots of your Trello board demonstrating use throughout the initial stages of the project
+<img src="docs/forum_user_stories.png"
+     alt="user stories"/>
+
+## Wireframes for multiple standard screen sizes, created using industry standard software
+
+<img src="docs/wire_frames/form_log_in.png"
+     alt="wire frame log in"/>
+
+<img src="docs/wire_frames/form_main_sub_topics.png"
+     alt="wire frame sub topics"/>
+
+<img src="docs/wire_frames/form_my_profile.png"
+     alt="wire frame my profile"/>
+
+<img src="docs/wire_frames/form_new_thread.png"
+     alt="wire frame new thread"/>
+
+<img src="docs/wire_frames/form_register.png"
+     alt="wire frame register"/>
+
+<img src="docs/wire_frames/form_sub_topic_threads.png"
+     alt="wire frame sub topic theads"/>
+
+<img src="docs/wire_frames/form_thread.png"
+     alt="wire frame thread"/>   
+
+## Screenshots of your Trello board demonstrating use throughout the initial stages of the project
