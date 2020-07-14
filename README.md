@@ -18,10 +18,16 @@ Description of your website, including:
 - Tech stack	
 
 ## R2
-Dataflow Diagram	
+Dataflow Diagram:
+
+<img src="./docs/diagrams/dataflow.png"
+     alt="diagram of the dataflow"/>
 
 ## R3
-Application Architecture Diagram
+Application Architecture Diagram:
+
+<img src="./docs/diagrams/ArchitectureDiagram.png"
+     alt="diagram of the application architecture"/>
 
 ## R4
 User Stories
