@@ -1,11 +1,9 @@
 # **MERN-STACK-APP**
 
-ASSESSMENT REQUIREMENTS:
 
-## R1
 
 ### ...
-*developed by Christopher Morris and Matthew Molloy*
+     *developed by Christopher Morris and Matthew Molloy*
 
 is an online forum where people can discuss, review and post about classic video games. The user is able to create a log in with their email, a password and make a username. From there, the user can create new posts or view and comment on an existing post. The user will also be able to upload images with their posts.
 
@@ -15,9 +13,14 @@ The main target market for ... is gamers, this group is fairly varied and has pe
 
 ## tech stack:
 
-     MERN - MongoDB, ExpressJS, ReactJS, NodeJS
+     JavaScript
+<img src="./docs/tech_stack/javascript.png" width="200px">
 
-<img src="./docs/MERN.jpeg"/>
+     MERN - MongoDB, ExpressJS, ReactJS, NodeJS
+<img src="./docs/tech_stack/MERN.jpeg" width="500px"/>
+
+     Amazon S3 services
+<img src="./docs/tech_stack/amazon.png" width="200px">
 
 Description of your website, including:
 - Purpose
