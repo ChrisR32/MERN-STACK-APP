@@ -13,11 +13,15 @@ The majority of ... is created using the MERN stack, a combination of frameworks
 
 ## tech stack:
 
-<img src="./docs/tech_stack/logos.png" width="200px"/>
-<img src="./docs/tech_stack/MERN.jpeg" width="200px"/>
+<img src="./docs/tech_stack/logos.png" 
+     alt="HTML, CSS and JavaScript logos" width="200px"/>
+<img src="./docs/tech_stack/MERN.jpeg" 
+     alt="MERN stack components MongoDB, ExpressJS, React and NodeJS" width="200px"/>
 <br>
-<img src="./docs/tech_stack/amazon.png" width="200px"/>
-<img src="./docs/tech_stack/VSC.png" width="200px" />
+<img src="./docs/tech_stack/amazon.png" 
+     alt="Amazon services" width="200px"/>
+<img src="./docs/tech_stack/VSC.png" 
+     alt="Visual Studio Code logo" width="200px"/>
 
 **JavaScript** - A high level programming language that conforms to the ECMAScript, which is utilised for client side scripting 
 
@@ -48,7 +52,7 @@ The majority of ... is created using the MERN stack, a combination of frameworks
 ## Application Architecture Diagram:
 
 <img src="./docs/diagrams/ArchitectureDiagram.png"
-     alt="user stories"/>
+     alt="App architecture diagram"/>
 
 
 ## User Stories
