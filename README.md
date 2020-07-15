@@ -13,14 +13,30 @@ The main target market for ... is gamers, this group is fairly varied and has pe
 
 ## tech stack:
 
-     JavaScript
-<img src="./docs/tech_stack/javascript.png" width="200px">
+<img src="./docs/tech_stack/logos.png" width="200px"/>
+<img src="./docs/tech_stack/MERN.jpeg" width="200px"/>
+<br>
+<img src="./docs/tech_stack/amazon.png" width="200px"/>
+<img src="./docs/tech_stack/VSC.png" width="200px" />
 
-     MERN - MongoDB, ExpressJS, ReactJS, NodeJS
-<img src="./docs/tech_stack/MERN.jpeg" width="500px"/>
+**JavaScript** - A high level programming language that conforms to the ECMAScript, which is utilised for client side scripting 
 
-     Amazon S3 services
-<img src="./docs/tech_stack/amazon.png" width="200px">
+**MongoDB** - Document oriented database where all the recorded information is stored. used in many current web applications 
+
+**ExpressJS** - Server framework that is utilised in conjunction with NodeJS, Express is used to handle HTTP requests 
+
+**ReactJS** - This powerful tool is used to create the UI(User Interface) and single page applications
+
+**NodeJS** - An event driven framework that handles inputs and outputs
+
+**HTML** - HyperText Markup Language is a basic system for writing out the information that appears on a website 
+
+**CSS** - Cascading Style Sheet, the styling used to dictate how the webiste is displayed to the end user
+
+**Amazon S3 Services** - The online service used to host the media that is uploaded to the forum
+
+**Visual Studio Code** - Software that is used to write the program
+
 
 Description of your website, including:
 - Purpose
