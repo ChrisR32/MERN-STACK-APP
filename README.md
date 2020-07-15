@@ -85,18 +85,18 @@ The majority of ... is created using the MERN stack, a combination of frameworks
      alt="screenshot of trello board as project progressed"/>
 <br>
 <img src="docs/planning/mm1.png"
-     alt="screenshot of trello board as project progressed" width="300px"/>
+     alt="screenshot of trello board as project progressed" width="200px"/>
 <img src="docs/planning/cm2.png"
-     alt="screenshot of trello board as project progressed" width="300px"/>
+     alt="screenshot of trello board as project progressed" width="200px"/>
 <img src="docs/planning/mm2.png"
-     alt="screenshot of trello board as project progressed" width="300px"/>
+     alt="screenshot of trello board as project progressed" width="200px"/>
 <br>
 <img src="docs/planning/cm3.png"
-     alt="screenshot of trello board as project progressed" width="300px"/>
+     alt="screenshot of trello board as project progressed" width="200px"/>
 <img src="docs/planning/mm3.png"
-     alt="screenshot of trello board as project progressed" width="300px"/>
+     alt="screenshot of trello board as project progressed" width="200px"/>
 <img src="docs/planning/cm4.png"
-     alt="screenshot of trello board as project progressed" width="300px"/>
+     alt="screenshot of trello board as project progressed" width="200px"/>
 <br>
 <img src="docs/planning/mm5.png"
      alt="screenshot of trello board as project progressed"/>
