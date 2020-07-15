@@ -9,7 +9,7 @@ is an online forum where people can discuss, review and post about classic video
 
 The main target market for ... is gamers, this group is fairly varied and has people from many different backgrounds and lifestyles, but predominantly consisting of males between the ages of 15-35. With this varying userbase we expect the interaction between users to be equally as broad and will be utilising admin roles. Similarly to regular roles, the admin will be able to comment and post, but will also have the ability to delete inappropriate posts and ban users if need be.
 
-
+The majority of ... is created using the MERN stack, a combination of frameworks and tools written in JavaScript - Mongo Data Base, Express, React and Node. This full stack covers both the frontend where end users interact with the site and the backend where information is stored. 
 
 ## tech stack:
 
@@ -38,11 +38,6 @@ The main target market for ... is gamers, this group is fairly varied and has pe
 **Visual Studio Code** - Software that is used to write the program
 
 
-Description of your website, including:
-- Purpose
-- Functionality / features
-- Target audience
-- Tech stack	
 
 ## Dataflow Diagram:
 
@@ -84,4 +79,24 @@ Description of your website, including:
 <img src="docs/wire_frames/form_thread.png"
      alt="wire frame thread"/>   
 
-## Screenshots of your Trello board demonstrating use throughout the initial stages of the project
+## Trello board screenshots throughout the creation of the documentation:
+
+<img src="docs/planning/cm1.png"
+     alt="screenshot of trello board as project progressed"/>
+<br>
+<img src="docs/planning/mm1.png"
+     alt="screenshot of trello board as project progressed" width="300px"/>
+<img src="docs/planning/cm2.png"
+     alt="screenshot of trello board as project progressed" width="300px"/>
+<img src="docs/planning/mm2.png"
+     alt="screenshot of trello board as project progressed" width="300px"/>
+<br>
+<img src="docs/planning/cm3.png"
+     alt="screenshot of trello board as project progressed" width="300px"/>
+<img src="docs/planning/mm3.png"
+     alt="screenshot of trello board as project progressed" width="300px"/>
+<img src="docs/planning/cm4.png"
+     alt="screenshot of trello board as project progressed" width="300px"/>
+<br>
+<img src="docs/planning/mm5.png"
+     alt="screenshot of trello board as project progressed"/>
