@@ -85,22 +85,58 @@ The majority of Gamerspace is created using the MERN stack, a combination of fra
 
 ## Trello board screenshots throughout the creation of the documentation:
 
-<img src="docs/planning/cm1.png"
-     alt="screenshot of trello board as project progressed"/>
-<br>
-<img src="docs/planning/mm1.png"
-     alt="screenshot of trello board as project progressed" width="200px"/>
-<img src="docs/planning/cm2.png"
-     alt="screenshot of trello board as project progressed" width="200px"/>
-<img src="docs/planning/mm2.png"
-     alt="screenshot of trello board as project progressed" width="200px"/>
-<br>
-<img src="docs/planning/cm3.png"
-     alt="screenshot of trello board as project progressed" width="200px"/>
-<img src="docs/planning/mm3.png"
-     alt="screenshot of trello board as project progressed" width="200px"/>
-<img src="docs/planning/cm4.png"
-     alt="screenshot of trello board as project progressed" width="200px"/>
-<br>
-<img src="docs/planning/mm5.png"
-     alt="screenshot of trello board as project progressed"/>
+<img src="docs/planning/Screen Shot 2020-07-13 at 3.38.57 pm.png"
+     alt="Planning board screenshot"/>   
+
+
+<img src="docs/planning/Screen Shot 2020-07-13 at 3.43.34 pm.png"
+     alt="Planning board screenshot"/>   
+
+
+<img src="docs/planning/Screen Shot 2020-07-13 at 9.17.42 am.png"
+     alt="Planning board screenshot"/>   
+
+
+<img src="docs/planning/Screen Shot 2020-07-13 at 9.17.48 am.png"
+     alt="Planning board screenshot"/>   
+
+
+<img src="docs/planning/Screen Shot 2020-07-13 at 10.00.08 am.png"
+     alt="Planning board screenshot"/>   
+
+
+<img src="docs/planning/Screen Shot 2020-07-14 at 2.50.05 pm.png"
+     alt="Planning board screenshot"/>   
+
+
+<img src="docs/planning/Screen Shot 2020-07-15 at 12.05.13 pm.png"
+     alt="Planning board screenshot"/>   
+
+
+<img src="docs/planning/Screen Shot 2020-07-15 at 12.05.20 pm.png"
+     alt="Planning board screenshot"/>   
+
+
+<img src="docs/planning/Screen Shot 2020-07-17 at 11.17.38 am.png"
+     alt="Planning board screenshot"/>   
+
+
+<img src="docs/planning/Screenshot from 2020-07-13 11-44-01.png"
+     alt="Planning board screenshot"/>   
+
+
+<img src="docs/planning/Screenshot from 2020-07-13 13-13-29.png"
+     alt="Planning board screenshot"/>   
+
+
+<img src="docs/planning/Screenshot from 2020-07-13 14-32-33.png"
+     alt="Planning board screenshot"/>   
+
+
+<img src="docs/planning/Screenshot from 2020-07-15 09-33-22.png"
+     alt="Planning board screenshot"/>   
+
+
+<img src="docs/planning/Screenshot from 2020-07-15 12-56-40.png"
+     alt="Planning board screenshot"/>   
+
