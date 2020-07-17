@@ -85,27 +85,27 @@ The majority of Gamerspace is created using the MERN stack, a combination of fra
 
 ## Trello board screenshots throughout the creation of the documentation:
 
-<img src="docs/planning/Screen Shot 2020-07-13 at 3.38.57 pm.png"
+<img src="docs/planning/cm1.png"
      alt="Planning board screenshot"/>   
 
 
-<img src="docs/planning/Screen Shot 2020-07-13 at 3.43.34 pm.png"
+<img src="docs/planning/cm2.png"
      alt="Planning board screenshot"/>   
 
 
-<img src="docs/planning/Screen Shot 2020-07-13 at 9.17.42 am.png"
+<img src="docs/planning/cm3.png"
      alt="Planning board screenshot"/>   
 
 
-<img src="docs/planning/Screen Shot 2020-07-13 at 9.17.48 am.png"
+<img src="docs/planning/cm4.png"
      alt="Planning board screenshot"/>   
 
 
-<img src="docs/planning/Screen Shot 2020-07-13 at 10.00.08 am.png"
+<img src="docs/planning/cm5.png"
      alt="Planning board screenshot"/>   
 
 
-<img src="docs/planning/Screen Shot 2020-07-14 at 2.50.05 pm.png"
+<img src="docs/planning/cm6.png"
      alt="Planning board screenshot"/>   
 
 
@@ -121,22 +121,22 @@ The majority of Gamerspace is created using the MERN stack, a combination of fra
      alt="Planning board screenshot"/>   
 
 
-<img src="docs/planning/Screenshot from 2020-07-13 11-44-01.png"
+<img src="docs/planning/mm1.png"
      alt="Planning board screenshot"/>   
 
 
-<img src="docs/planning/Screenshot from 2020-07-13 13-13-29.png"
+<img src="docs/planning/mm2.png"
      alt="Planning board screenshot"/>   
 
 
-<img src="docs/planning/Screenshot from 2020-07-13 14-32-33.png"
+<img src="docs/planning/mm3.png"
      alt="Planning board screenshot"/>   
 
 
-<img src="docs/planning/Screenshot from 2020-07-15 09-33-22.png"
+<img src="docs/planning/mm4.png"
      alt="Planning board screenshot"/>   
 
 
-<img src="docs/planning/Screenshot from 2020-07-15 12-56-40.png"
+<img src="docs/planning/mm5.png"
      alt="Planning board screenshot"/>   
 
